@@ -3,6 +3,7 @@
 ## Overview and Origin
 
 Clarifai was founded in 2013 by Matthew Zeiler. He was inspired to start the company by his desire to change the world using AI[^1] [^2]. In a 2016 post on the company's blog Matthew Zeiler talked about why the company was founded[^3]:
+
 > Clarifai was founded in 2013 . . . to solve real-world problems with AI, starting with visual recognition. We've always believed that AI can augment human intelligence to transform how businesses and developers build apps and create user experiences.
 
 Clarifai recieves its funding through investors. They have had three waves of funding (Series A funding in 2015[^4], Series B in 2016[^3], and Series C in 2021[^2]) and have raised around one hundred million dollars. Their investors mostly consist of companies and investment firms such as NVIDIA and CPP Investments[^1].
@@ -62,7 +63,7 @@ Here is the comprehensive list of the works I cited or used in my research in th
 
 [^1]: Clarifai about page including information on the executive team and the founding of the company. https://www.clarifai.com/company/about.
 
-[^2] Company blog page talking about the company's series C investing. https://www.clarifai.com/blog/clarifai-celebrates-series-c-funding
+[^2]: Company blog page talking about the company's series C investing. https://www.clarifai.com/blog/clarifai-celebrates-series-c-funding
 
 [^3]: Company blog page talking about the company's series B funding, but also includes an anecdote at the beginning mentioning why the company was founded. https://www.clarifai.com/blog/announcing-30-million-reasons-to-be-thankful
 

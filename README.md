@@ -2,31 +2,31 @@
 
 ## Overview and Origin
 
-Clarifai was founded in 2013 by Matthew Zeiler. He was inspired to start the company by his desire to change the world using AI[^1] [^2]. In a 2016 post on the company's blog Matthew Zeiler talked about why the company was founded[^3]:
+Clarifai was founded in 2013 by Matthew Zeiler. He was inspired to start the company by his desire to change the world using AI.[^1] [^2] In a 2016 post on the company's blog Matthew Zeiler talked about why the company was founded:[^3]
 
 > Clarifai was founded in 2013 . . . to solve real-world problems with AI, starting with visual recognition. We've always believed that AI can augment human intelligence to transform how businesses and developers build apps and create user experiences.
 
-Clarifai recieves its funding through investors. They have had three waves of funding (Series A funding in 2015[^4], Series B in 2016[^3], and Series C in 2021[^2]) and have raised around one hundred million dollars. Their investors mostly consist of companies and investment firms such as NVIDIA and CPP Investments[^1].
+Clarifai recieves its funding through investors. They have had three waves of funding (Series A funding in 2015,[^4] Series B in 2016,[^3] and Series C in 2021[^2]) and have raised around one hundred million dollars. Their investors mostly consist of companies and investment firms such as NVIDIA and CPP Investments.[^1]
 
 ## Business Activities
 
-Clarifai is creating AI tools, especially in the computer vision space, to allow businesses and developers to create new solutions to problems they face. Their primary customers are other businesses and the government[^5].
+Clarifai is creating AI tools, especially in the computer vision space, to allow businesses and developers to create new solutions to problems they face. Their primary customers are other businesses and the government.[^5]
 
-Clarifai competes in its field by offering their solutions for cheaper[^6], and by providing a service that larger ai companies don't, a guarantee that the data used to train the models will not be used to build a competing product[^7].
+Clarifai competes in its field by offering their solutions for cheaper,[^6] and by providing a service that larger ai companies don't, a guarantee that the data used to train the models will not be used to build a competing product.[^7]
 
-The company is currently using deep learning to process image data in a variety of computer vision tasks including image analysis, pattern recognition, and facial recognition[^8]. They are also using generative ai and large learning models[^9] to predict patterns (such as failures in manufacturing plants)[^10], and natural language processing to "discover customer insights"[^11] in the retail space.
+The company is currently using deep learning to process image data in a variety of computer vision tasks including image analysis, pattern recognition, and facial recognition.[^8] They are also using generative ai and large learning models[^9] to predict patterns (such as failures in manufacturing plants[^10]), and natural language processing to "discover customer insights"[^11] in the retail space.
 
 ## Landscape
 
-Clarifai is mostly a computer vision company. From personal experience I can say that in the last 5-10 years the computer vision industry has been transitioning away from traditional vision algorithms towards AI. Within the field of AI computer vision, deep learning has been on of the major drivers of the technology[^12].
+Clarifai is mostly a computer vision company. From personal experience I can say that in the last 5-10 years the computer vision industry has been transitioning away from traditional vision algorithms towards AI. Within the field of AI computer vision, deep learning has been on of the major drivers of the technology.[^12]
 
-Clarifai largely competes with other computer vision companies (or other companies in the computer vision space) such as Amazon[^13], Google[^7], and Adobe[^6], but it also competes with other firms using ai in other ways such as mediafly (who uses ai to create predictions for sales)[^6] [^14].
+Clarifai largely competes with other computer vision companies (or other companies in the computer vision space) such as Amazon,[^13] Google,[^7] and Adobe.[^6] It also competes with firms using ai in other ways such as mediafly (who uses ai to create predictions for sales).[^6] [^14]
 
 ## Results
 
 Clarifai made an impact on the computer vision field by being an early ai company who was providing its solutions to other third party companies. 
 
-Computer vision companies generally measure success by the accuracy of their solutions. In 2017 Clarifai was on par, and in some cases more accuate, with its big tech competitors Google, IBM, and Microsoft. 
+Computer vision companies generally measure success by the accuracy of their solutions. In 2017 Clarifai was on par, and in some cases more accuate, with its big tech competitors Google, IBM, and Microsoft.[^7] 
 
 Since 2017 I was unable to find a direct comparison, but considering their continued growth, and a lack of articles saying they were falling behind, it is safe to say that they have continued to stay on par with their competitors.
 
